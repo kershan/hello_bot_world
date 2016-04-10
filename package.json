@@ -2,7 +2,7 @@
   "name": "hello_bot_world",
   "version": "0.1.0",
   "description": "Hello World Bot made using Microsoft Botframework",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
