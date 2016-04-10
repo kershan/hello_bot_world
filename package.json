@@ -1,0 +1,19 @@
+{
+  "name": "hello_bot_world",
+  "version": "0.1.0",
+  "description": "Hello World Bot made using Microsoft Botframework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kershan/hello_bot_world.git"
+  },
+  "author": "Kershan Naidoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kershan/hello_bot_world/issues"
+  },
+  "homepage": "https://github.com/kershan/hello_bot_world#readme"
+}
