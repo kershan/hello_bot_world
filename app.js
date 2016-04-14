@@ -8,7 +8,7 @@ bot.add('/', function (session) {
     if (!session.userData.name) {
         session.beginDialog('/profile');
     } else {
-        session.send('Hello %s!', session.userData.name);
+        session.send('Hello %s! Welcome to the Bot World!', session.userData.name);
     }
 });
 
